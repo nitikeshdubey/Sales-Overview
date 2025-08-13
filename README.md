@@ -95,7 +95,7 @@ CALCULATE(
 
 ## 📸 Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](PowerBI-Orders-Dashboard/images/dashboard_overview.png)
 
 ---
 
