@@ -22,14 +22,12 @@ It allows users to:
 │   ├── Sample - Superstore.xls         # dataset
 │
 ├── 📂 pbix
-│   ├── Orders\_Dashboard.pbix  # Power BI report file
+│   ├── Sales Overview Report.pbix  # Power BI report file
 │
 ├── 📂 images
-│   ├── dashboard\_overview\.png # Screenshot of full dashboard
-│   ├── region\_view\.png        # Central/East/South/West views
+│   ├── dashboard_overview.png # Screenshot of full dashboard
 │
 ├── README.md             # Project documentation
-└── LICENSE               # License file
 
 ````
 
